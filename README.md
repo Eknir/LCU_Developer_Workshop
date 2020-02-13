@@ -23,10 +23,10 @@ and download Swarm in this folder
 * unpack the Swarm binary with `tar -xzf swarm-*0.5.6*`
 
 ### Start Swarm
-run: `chmod +x && ./scripts/start.sh`
+run: `chmod +x /scripts/up.sh & ./scripts/start.sh`
 
 ### Upload website
-in a new terminal, run: `chmod +x && ./scripts/up.sh`
+in a new terminal, run: `chmod +x /scripts/up.sh && ./scripts/up.sh`
 
 ### View website
 Go to your favorite web-browser and navigate to the address as instructed by your command-line!
